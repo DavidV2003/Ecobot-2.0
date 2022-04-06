@@ -180,3 +180,4 @@ model.save_weights('par.h5')
 
 print('guardado')
 
+#Agradecimientos para BIT y aquamary13
